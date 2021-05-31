@@ -1,0 +1,12 @@
+server:
+  port: 8001
+  
+eureka:
+  client:
+    service-url:
+      defaultZone: http://10.0.2.15:8761/eureka
+  
+ragnarok:
+  code:
+    urlPlanetaTierra: 1875.6981.6580.6981.5896
+    urlPlanetaVenus: 1269.6587.9865.6984.3264

@@ -1,10 +1,11 @@
 server:
   port: 8002
 
-ragnarokcode:
-  urlTierra: 175.15.35.12
-  urlVenus: 174.15.84.15  
-  urlMarte: 173.15.15.45
+ragnarok:
+  code:
+    urlTierra: 175.15.35.12
+    urlVenus: 174.15.84.15  
+    urlMarte: 173.15.15.45
 
 eureka:
   client:
